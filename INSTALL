@@ -1,0 +1,9 @@
+Building Tetra
+
+See doc/readme-qt.rst for instructions on building Tetra-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Tetra.
+
+See doc/build-*.txt for instructions on building tetrad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Tetra.
