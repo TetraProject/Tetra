@@ -10,8 +10,7 @@ What is Tetra?
 Tetra is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
 - Symbol TRA
 - Pure scrypt Proof of Work coin
-- 84 Million coins available
-- Block reward 100 TRA halving every 210000 blocks
-- 30 seconds block time
+- Block reward 0.03 TRA
+- 2 minutes block time
 - RPC Port 60143
 - P2P Port 61143
